@@ -14,6 +14,6 @@ HARDWARE:
 SETTING UP:
 - [here](https://learn.adafruit.com/adafruits-raspberry-pi-lesson-11-ds18b20-temperature-sensing/ds18b20) to set up DS18S20
 
-TECNOLOGY:
+TECHNOLOGY:
 - Python 2.7
 - MySQLdb
